@@ -1,6 +1,17 @@
 # 🐧 Ubuntu Developer Setup & Personalization
 
-Bu depo, Ubuntu (GNOME) masaüstü ortamını daha verimli ve görsel olarak daha şık bir hale getirmek için kullandığım yapılandırma dosyalarını ve otomasyon scriptlerini içerir.
+Bu depo, Ubuntu (GNOME) masaüstü ortamını verimli ve görsel olarak şık bir hale getirmek için kullanılan yapılandırma dosyalarını ve otomasyon scriptlerini içerir.
+
+## 🚀 Hızlı Başlangıç (Yeni Makine İçin)
+
+Yeni bir kurulum yaptıysanız sırasıyla şu adımları izleyin:
+
+### 1. Bağımlılıkları Kur
+Sistemin temaları ve ayarları tanıyabilmesi için gerekli araçları yükler:
+```bash
+chmod +x setup.sh
+./setup.sh
+```
 
 ## ✨ Özellikler
 * **Tema:** Orchis-Dark (Yuvarlatılmış modern materyal tasarım)
